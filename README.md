@@ -6,3 +6,6 @@ Um sistema de vigilância feito com OpenCV e YOLOv8. No exemplo utilizado é pos
 ## Bibliotecas
 - ultralytics
 - opencv-python
+
+## Resultado
+![sistema de vigilancia](https://github.com/user-attachments/assets/34651f32-3be0-4afd-ac90-cf24c89fa383)
