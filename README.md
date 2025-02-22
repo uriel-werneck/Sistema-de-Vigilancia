@@ -8,7 +8,9 @@ Um sistema de vigilância feito com OpenCV e YOLOv8. No exemplo utilizado é pos
 - **Detecção de Objetos:** YOLOv8 (Ultralytics)
 
 ## 📦 Instalação das Dependências
+```bash
 pip install requirements.txt
+```
 
 ## 📊 Demonstração
 ![sistema de vigilancia](https://github.com/user-attachments/assets/34651f32-3be0-4afd-ac90-cf24c89fa383)
