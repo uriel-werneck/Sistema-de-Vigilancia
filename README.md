@@ -9,7 +9,7 @@ Um sistema de vigilância feito com OpenCV e YOLOv8. No exemplo utilizado é pos
 
 ## 📦 Instalação das Dependências
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 📊 Demonstração
